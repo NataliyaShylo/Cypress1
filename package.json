@@ -1,0 +1,14 @@
+{
+  "name": "cypress_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shylo Nataliya",
+  "license": "ISC",
+  "description": "Simple Cypress demo project",
+  "dependencies": {
+    "cypress": "^14.2.1"
+  }
+}
